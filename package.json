@@ -1,6 +1,6 @@
 {
     "name": "zenanime-hianime-scraper",
-    "version": "2.24.0",
+    "version": "2.24.3",
     "description": "📦 A scraper package serving anime information from hianime.to",
     "license": "MIT",
     "main": "dist/index.js",
